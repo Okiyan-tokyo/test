@@ -3,7 +3,7 @@ $a=1
 ?>
 
 <html>
-<p>aaa</p>
+<p>aaas</p>
 <?= $a; ?>
 </html>
 
